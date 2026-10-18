@@ -52,3 +52,15 @@ header {
     border-radius: 4px;
     font-size: 0.85rem;
 }
+
+/* Contato */
+.contato-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.botao:hover {
+    background-color: #ff5e00;
+    color: #ffffff;
+}
